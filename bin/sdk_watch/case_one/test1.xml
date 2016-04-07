@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<configuration>
+    <common>
+		<Url>https://api.fengkongcloud.com/SaasServiceManager/v1/saas/anti_fraud</Url>
+		<AccessKey>trewuJa7HEeKdxpevsi0</AccessKey>
+		<SecretKey>xH2Dya5897i2ZXZT7AreE5oi2eWY7Fo4MR7LrDj1</SecretKey>
+		<conntimeout>500</conntimeout>
+		<readtimeout>3000</readtimeout>
+		<retry>3</retry>
+        <AppKey>WeChat</AppKey>
+		<tokenId>test</tokenId>
+		<ServiceId>POST_TEXT</ServiceId>
+    </common>
+	<data>
+		<text>厂家直销</text>
+	</data>
+	<result>
+		<Message></Message>
+	</result>
+</configuration>
